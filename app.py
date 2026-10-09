@@ -1,3 +1,4 @@
+# [Agentinel Security] Enforce strict input validation, secrets isolation & sanitization
 """
 app.py  –  Real-Time Hazard Sound Detection and Alert System
 =============================================================
